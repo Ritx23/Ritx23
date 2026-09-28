@@ -2,11 +2,11 @@
 <div align="center">
 
 <!-- Cosmic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0e8f,100:9b59b6&height=200&section=header&text=Ritik&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Cosmic%20Code%20Architect&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0e8f,100:9b59b6&height=200&section=header&text=Ritik&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello+Universe+%F0%9F%AA%90;Frontend+Developer+%26+UI+Craftsman;React+%7C+TypeScript+%7C+Node.js+Explorer;C%2B%2B+Systems+Programmer;Building+apps+that+defy+gravity+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello+Universe+%F0%9F%AA%90;Frontend+Developer+%26+MERN+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+Explorer;C%2B%2B+Systems+Programmer;Building+apps+that+defy+gravity+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
