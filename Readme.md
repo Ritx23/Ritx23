@@ -64,7 +64,6 @@ const ritik = {
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repos-Growing-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
 ![Commits](https://img.shields.io/badge/Commits-Every_Day-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0221)
 ![Focus](https://img.shields.io/badge/Focus-Frontend_%26_MERN-9b59b6?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0221)
 ![PRs](https://img.shields.io/badge/Open_Source-Contributing-6d28d9?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0221)
