@@ -78,8 +78,13 @@ const ritik = {
 
 ---
 
-## 🏆 Trophies from the Galaxy
+## 🪐 Currently Building
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritx23&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
+
+![Learning](https://img.shields.io/badge/🚀_Learning-React_Server_Components-a855f7?style=for-the-badge&labelColor=0d0221)
+![Exploring](https://img.shields.io/badge/🧩_Exploring-DSA_with_C++-7c3aed?style=for-the-badge&labelColor=0d0221)
+![Building](https://img.shields.io/badge/🎨_Building-Pixel_Perfect_UIs-9b59b6?style=for-the-badge&labelColor=0d0221)
+![Goal](https://img.shields.io/badge/🌐_Goal-WebAssembly_with_C++-6d28d9?style=for-the-badge&labelColor=0d0221)
+
 </div>
