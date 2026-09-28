@@ -60,21 +60,21 @@ const ritik = {
 
 </div>
 
----
-
-## 🌠 GitHub Stats
+## 🌠 GitHub Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritx23&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=a855f7&icon_color=9b59b6&text_color=ffffff&border_color=4a0e8f&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180px" alt="Ritik's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritx23&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=a855f7&text_color=ffffff&border_color=4a0e8f&hide_border=false&langs_count=8" height="180px" alt="Top Languages"/>
-</div>
 
-<br/>
+![Repos](https://img.shields.io/badge/Public_Repos-Growing-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
+![Commits](https://img.shields.io/badge/Commits-Every_Day-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0221)
+![Focus](https://img.shields.io/badge/Focus-Frontend_%26_MERN-9b59b6?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0221)
+![PRs](https://img.shields.io/badge/Open_Source-Contributing-6d28d9?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0221)
+
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ritx23&theme=tokyonight&background=0d0221&ring=9b59b6&fire=e879f9&currStreakLabel=a855f7&border=4a0e8f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
