@@ -74,13 +74,6 @@ const ritik = {
   <img src="https://streak-stats.demolab.com?user=Ritx23&theme=tokyonight&background=0d0221&ring=9b59b6&fire=e879f9&currStreakLabel=a855f7&border=4a0e8f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
-## 📈 Commit Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritx23&bg_color=0d0221&color=a855f7&line=7c3aed&point=e879f9&area=true&area_color=4a0e8f&hide_border=true&radius=8" width="98%" alt="Commit Graph"/>
-</div>
 
 
 ---
