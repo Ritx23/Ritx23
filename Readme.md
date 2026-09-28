@@ -9,13 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello+Universe+%F0%9F%AA%90;Frontend+Developer+%26+MERN+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+Explorer;C%2B%2B+Systems+Programmer;Building+apps+that+defy+gravity+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Ritx23&color=9b59b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ritx23?style=for-the-badge&color=9b59b6&labelColor=0d0221&label=FOLLOWERS" alt="Followers"/>
-
 </div>
 
 ---
@@ -35,9 +28,6 @@ const ritik = {
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritx23&bg_color=0d0221&color=a855f7&line=7c3aed&point=e879f9&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
-</div>
 
 ---
 
@@ -75,15 +65,15 @@ const ritik = {
 ## 🌠 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritx23&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=a855f7&icon_color=9b59b6&text_color=ffffff&border_color=4a0e8f&hide_border=false&rank_icon=github" height="180px" alt="Ritik's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritx23&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=a855f7&icon_color=9b59b6&text_color=ffffff&border_color=4a0e8f&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180px" alt="Ritik's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritx23&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=a855f7&text_color=ffffff&border_color=4a0e8f&hide_border=false" height="180px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritx23&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=a855f7&text_color=ffffff&border_color=4a0e8f&hide_border=false&langs_count=8" height="180px" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ritx23&theme=tokyonight&background=0d0221&ring=9b59b6&fire=e879f9&currStreakLabel=a855f7&border=4a0e8f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ritx23&theme=tokyonight&background=0d0221&ring=9b59b6&fire=e879f9&currStreakLabel=a855f7&border=4a0e8f&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -91,5 +81,5 @@ const ritik = {
 ## 🏆 Trophies from the Galaxy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritx23&theme=onestar&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritx23&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
 </div>
