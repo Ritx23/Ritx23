@@ -93,11 +93,3 @@ const ritik = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ritx23&theme=onestar&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="Trophies"/>
 </div>
-
----
-
-## 🌌 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
